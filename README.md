@@ -1,2 +1,2 @@
 # simple-projects
-mini games, prokects, ideas
+mini games, projects, ideas
